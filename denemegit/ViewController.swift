@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("deneme")
+      /* print("deneme")
                 // Do any additional setup after loading the view.
         
         print("deneme3")
@@ -42,7 +42,9 @@ class ViewController: UIViewController {
         print("deneme")
         // Do any additional setup after loading the view.
         
-        print("deneme3")
+        print("deneme3")*/
+        
+        print("Son commit")
     }
 
 
