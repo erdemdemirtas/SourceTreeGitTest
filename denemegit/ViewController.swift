@@ -14,6 +14,35 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        print("deneme")
                 // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
+        print("deneme")
+        // Do any additional setup after loading the view.
+        
+        print("deneme3")
     }
 
 
